@@ -72,5 +72,5 @@ If the extraction is pure black: The image has not been altered, or the watermar
 
 If a chaotic ghost image appears: If you see a faint, blurry outline of the actual image contents instead of a clean watermark, it means the watermarked image underwent an AI upscale step or a compression algorithm that shifted surrounding pixel values slightly. Turn the Extraction Multiplier slider up to 30.0x or higher to pull the sharp geometry of your mask out of the noise.
 
-License
-Distributed under the MIT License. See LICENSE for more information.
+## License
+Distributed under the GNU Affero General Public License v3.0 (AGPLv3). See [LICENSE](LICENSE) for more information.
